@@ -18,7 +18,7 @@
 * Nikos scripts (and variable names) for automated tool
 * Analysis scripts: emittance growth, bunch classes, intensity and losses, brightness correlations, luminosity (of a Fill, the cumalated)
 ***
-**Lumi model**\
+**Lumi model**
 * Run updated Model for the follow-up (we used to run the old model and the model only with coupling)
 * To prepare techn. note for the updated model, maybe in lumi days proceedings
 ***
