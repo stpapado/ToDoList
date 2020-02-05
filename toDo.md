@@ -16,9 +16,10 @@
 **General for Lumi Follow up**
 * Scripts for summary pkl & plots used for Lumi follow-up. See what are the plots that are actually needed.
 * Nikos scripts (and variable names) for automated tool
-* Run updated Model for the follow-up (we used to run the old model and the model only with coupling)
 * Analysis scripts: emittance growth, bunch classes, intensity and losses, brightness correlations, luminosity (of a Fill, the cumalated)
-*
+**Lumi model**
+* Run updated Model for the follow-up (we used to run the old model and the model only with coupling)
+* To prepare techn. note for the updated model, maybe in lumi days proceedings
 ***
 **Useful links**\
 HSI lumi meetings: https://indico.cern.ch/category/9172/ \
